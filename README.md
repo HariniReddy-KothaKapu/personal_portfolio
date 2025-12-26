@@ -1,30 +1,26 @@
-# Portfolio website
+This is my personal portfolio website, created to present my technical skills, projects, professional experiences, hackathon participation, and achievements as a Computer Science Engineering student and aspiring software developer. The website reflects my learning journey, interests in full-stack development, and passion for building clean, responsive, and user-friendly web applications.
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+It serves as a central place to explore the projects I have worked on, understand the technologies I use, and get an overview of my growth through internships, training programs, and tech events. The portfolio is designed to be simple, modern, and easy to navigate across all devices.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kharinireddy03-1050s-projects/v0-portfolio-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/nn8B0SiZu9v)
+👩‍💻 About Me
 
-## Overview
+Kotha Kapu Harini Reddy
+CSE Student | Aspiring Software Developer | Full Stack Developer
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+🚀 Highlights
 
-## Deployment
+Modern, responsive, and minimal design
 
-Your project is live at:
+Well-structured sections for skills, projects, and experience
 
-**[https://vercel.com/kharinireddy03-1050s-projects/v0-portfolio-website](https://vercel.com/kharinireddy03-1050s-projects/v0-portfolio-website)**
+GitHub and LinkedIn links for projects and achievements
 
-## Build your app
+Hackathon participation and training programs showcased clearly
 
-Continue building your app on:
+🛠 Tech Stack
 
-**[https://v0.app/chat/nn8B0SiZu9v](https://v0.app/chat/nn8B0SiZu9v)**
+Next.js
 
-## How It Works
+Tailwind CSS
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+shadcn/ui
