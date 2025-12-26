@@ -16,11 +16,3 @@ Well-structured sections for skills, projects, and experience
 GitHub and LinkedIn links for projects and achievements
 
 Hackathon participation and training programs showcased clearly
-
-🛠 Tech Stack
-
-Next.js
-
-Tailwind CSS
-
-shadcn/ui
