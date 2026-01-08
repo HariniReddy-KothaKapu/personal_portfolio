@@ -79,7 +79,7 @@ const hackathons = [
     date: "December 2025",
     description:
       "Participated in a fun and creative hackathon focused on building unique, unconventional, and engaging tech projects using AI-powered vibe coding. The event encouraged innovation, experimentation, and rapid prototyping in a collaborative environment.",
-    linkedinUrl: "https://www.linkedin.com/in/harini-reddy-kothakapu/",
+    linkedinUrl: "https://www.linkedin.com/in/harinireddykothakapu/",
   },
   {
     title: "Sparkathon @ Walmart",
@@ -87,7 +87,7 @@ const hackathons = [
     date: "September 2025",
     description:
       "Participated in the Sparkathon hackathon organized by Walmart, focusing on innovative solutions and collaborative problem-solving with a team.",
-    linkedinUrl: "https://www.linkedin.com/in/harini-reddy-kothakapu/",
+    linkedinUrl: "https://www.linkedin.com/in/harinireddykothakapu/",
   },
 ]
 
@@ -119,7 +119,7 @@ export default function Credentials() {
                     variant="outline"
                     size="sm"
                     className="w-full border-[#77A9B7] text-[#77A9B7] hover:bg-[#77A9B7] hover:text-white bg-transparent"
-                    onClick={() => window.open("https://www.linkedin.com/in/harini-reddy-kothakapu/", "_blank")}
+                    onClick={() => window.open("https://www.linkedin.com/in/harinireddykothakapu/", "_blank")}
                   >
                     <ExternalLink className="mr-2 h-4 w-4" />
                     View on LinkedIn
@@ -132,7 +132,7 @@ export default function Credentials() {
             <Button
               size="lg"
               className="bg-[#77A9B7] hover:bg-[#6a98a6]"
-              onClick={() => window.open("https://www.linkedin.com/in/harini-reddy-kothakapu/", "_blank")}
+              onClick={() => window.open("https://www.linkedin.com/in/harinireddykothakapu/", "_blank")}
             >
               <ExternalLink className="mr-2 h-5 w-5" />
               View All Certifications on LinkedIn

@@ -11,8 +11,8 @@ const contactInfo = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "/in/harini-reddy-kothakapu",
-    link: "https://www.linkedin.com/in/harini-reddy-kothakapu/",
+    value: "/in/harinireddykothakapu",
+    link: "https://www.linkedin.com/in/harinireddykothakapu/",
   },
   {
     icon: Github,
