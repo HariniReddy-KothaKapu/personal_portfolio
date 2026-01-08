@@ -6,39 +6,69 @@ import { Award, Trophy, ExternalLink } from "lucide-react"
 
 const certifications = [
   {
+    title: "Code at Christmas Hackathon",
+    organization: "Girls Leading Tech",
+    date: "Dec 2025",
+  },
+  {
     title: "Introduction to Artificial Intelligence",
-    organization: "LinkedIn Learning",
-    date: "Issued",
+    organization: "Infosys Springboard",
+    date: "Oct 2025",
   },
   {
     title: "Introduction to Data Science",
-    organization: "LinkedIn Learning",
-    date: "Issued",
+    organization: "Infosys Springboard",
+    date: "Oct 2025",
+  },
+  {
+    title: "Sparkathon @ Walmart",
+    organization: "Walmart",
+    date: "Sep 2025",
   },
   {
     title: "AI Fundamentals with IBM SkillsBuild",
-    organization: "IBM",
-    date: "Issued",
+    organization: "Cisco",
+    date: "Aug 2025",
   },
   {
     title: "Network Defense",
-    organization: "Cisco",
-    date: "Issued",
+    organization: "Cisco Networking Academy",
+    date: "Jul 2025",
+  },
+  {
+    title: "Microsoft AI Skills Fest",
+    organization: "Microsoft",
+    date: "Apr 2025",
   },
   {
     title: "Database Management System",
-    organization: "NPTEL",
-    date: "Issued",
+    organization: "Great Learning",
+    date: "Nov 2024",
   },
   {
-    title: "Summer of AI Internship Program",
-    organization: "GeeksforGeeks",
-    date: "Completed",
+    title: "Web Development",
+    organization: "Simplilearn",
+    date: "Nov 2024",
+  },
+  {
+    title: "Basics of Python",
+    organization: "Infosys Springboard",
+    date: "Sep 2024",
+  },
+  {
+    title: "Summer Of AI Internship Program",
+    organization: "Swecha Telangana",
+    date: "Jul 2024",
   },
   {
     title: "Problem Solving through Programming in C",
     organization: "NPTEL",
-    date: "Issued",
+    date: "Apr 2024",
+  },
+  {
+    title: "100 Days Coding Streak",
+    organization: "CodeChef",
+    date: "Achieved",
   },
 ]
 
@@ -54,7 +84,7 @@ const hackathons = [
   {
     title: "Sparkathon @ Walmart",
     organizer: "Walmart",
-    date: "Completed",
+    date: "September 2025",
     description:
       "Participated in the Sparkathon hackathon organized by Walmart, focusing on innovative solutions and collaborative problem-solving with a team.",
     linkedinUrl: "https://www.linkedin.com/in/harini-reddy-kothakapu/",
