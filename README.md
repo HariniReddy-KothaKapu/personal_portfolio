@@ -24,7 +24,7 @@ The portfolio is built using modern and widely adopted web technologies to ensur
 * HTML for structuring the content
 * CSS for styling and layout design
 * JavaScript for interactivity and dynamic behavior
-* React (if applicable) for building reusable UI components
+* React for building reusable UI components
 
 ## Design Philosophy
 
