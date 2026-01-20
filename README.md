@@ -59,4 +59,4 @@ Planned improvements include:
 
 ## License
 
-This project is intended for personal and professional use and follows an open and reusable approach.
+Harini Reddy Kotha Kapu
